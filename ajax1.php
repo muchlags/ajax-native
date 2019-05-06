@@ -16,16 +16,3 @@
     req.send('data={"num1":9,"num2":3}'); //data to be sent to ajax2.php
 
 </script>
-<?php
-
-$req = 1;
-
-
-
-
-
-
-
-
-
-?>
